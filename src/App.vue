@@ -1,3 +1,4 @@
+<!-- eslint-disable vue/script-setup-uses-vars -->
 <template>
   <div id="app">
     <div id="flashMessage" v-if="GStore.flashMessage">
